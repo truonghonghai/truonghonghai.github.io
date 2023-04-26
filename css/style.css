@@ -39,16 +39,13 @@ header {
     height: 24px;
   }
 h1 {
-    font-family: Work Sans;
     font-size: 50px;
-    font-weight: 700;
-    text-align: left;
+    margin-top: 154px;
 }
 p {
     height: 80px;
     width: 192px;
-    border-radius: nullpx;
-
+    color: gray;
     /* color: gray;
     font-family: Work Sans;
     font-size: 20px;
@@ -57,4 +54,31 @@ p {
     padding: 0 11% 0 11%;
     text-align: left; */
 }
-
+/* button {
+  margin-top: 20px;
+  width: 120px;
+  height: 40px;
+  background-color: red;
+  border-radius: 4px;
+} */
+.test-1 {
+  width: 21%;
+}
+.test-1 button {
+  margin-top: 20px;
+  width: 120px;
+  height: 40px;
+  background-color: red;
+  border-radius: 4px;
+}
+.test-1 img {
+  width:
+  display: flex;
+  justify-content: space-between;
+}
+.abc {
+  width: 190px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
