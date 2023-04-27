@@ -66,7 +66,7 @@ background-color: red;
 .test-2 img {
   width: 40px;
   height: 40px;
-  
+  margin-top: auto;
 }
 .free img {
   margin-right: 120px; /* hoặc giá trị khoảng cách mong muốn */
