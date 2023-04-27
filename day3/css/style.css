@@ -1,0 +1,115 @@
+body{
+  padding: 0 11% 0 11%;
+
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#logo1 {
+  width: 48px;
+  height: 47px;
+  top: 1px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  /* color: #fff; */
+  text-decoration: none;
+}
+ul {
+  width: 24px;
+  height: 24px;
+}
+#icon { 
+  width: 24px;
+  height: 24px;
+}
+h1 {
+  font-size: 50px;
+  margin-top: 154px;
+}
+p {
+  height: 80px;
+  width: 192px;
+  color: gray;
+}
+/* button {
+margin-top: 20px;
+width: 120px;
+height: 40p;
+background-color: red;
+border-radius: 4px;
+} */
+.test-1 {
+width: 21%;
+}
+.test-1 button {
+margin-top: 20px;
+width: 120px;
+height: 40px;
+background-color: red;
+}
+.test-1 img {
+width: 30px;
+height: 30px;
+padding: 0 11% 0 11%;
+}
+.abc img {
+  margin-right: 120px; /* hoặc giá trị khoảng cách mong muốn */
+  margin-top: 90px;
+}
+body {
+  padding-top: 30px; /* set a padding equal to the height of container-3 */
+} */
+body {
+  position: relative;
+}
+
+.container-2 {
+  float: left;
+  z-index: 1;
+}
+#water-green {
+  width: 600px;
+  height: 500px;
+  position: absolute;
+  z-index: 1;
+  float: left;
+}
+#water-blue {
+  width: 600px;
+  height: 500px;
+  position: absolute;
+  z-index: 2;
+  float: left;
+}
+#surprised {
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  z-index: 3;
+  float: left;
+}
+
+#footwear {
+  width: 900px;
+  height: 700px;
+  position: absolute;
+  z-index: 4;
+  float: right;
+}
+
